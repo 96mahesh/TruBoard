@@ -1,0 +1,20 @@
+2023-12-08 10:37:04 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2023-12-08 12:34:55 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2023-12-08 16:01:01 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2023-12-08 16:01:06 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case method
+2023-12-08 16:01:06 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2023-12-08 16:01:11 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2023-12-08 16:01:12 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Next button
+2023-12-08 16:01:19 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Erc~%4^ckD_fZyo on element:Password text field
+2023-12-08 16:01:21 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2023-12-08 16:01:28 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2023-12-08 16:01:34 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Search Bar Field
+2023-12-08 16:01:35 INFO  BaseTest:49 - ---INFO--- ---INFO--- Selected dropdown value as :Project Name on element::Search Bar Field.
+2023-12-08 16:01:36 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Sarch
+2023-12-08 16:01:38 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Asset TestPerform on element:Sarch

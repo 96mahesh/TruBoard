@@ -1,0 +1,22 @@
+2024-02-14 11:47:42 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-14 11:47:48 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-02-14 11:47:48 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-14 11:47:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-14 11:47:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-14 11:48:00 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Erc~%4^ckD_fZyo on element:Password text field
+2024-02-14 11:48:01 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-14 11:48:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-14 11:48:12 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-02-14 11:48:12 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-02-14 11:50:36 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-14 11:50:39 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-02-14 11:50:39 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-14 11:50:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-14 11:50:44 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-14 11:50:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Erc~%4^ckD_fZyo on element:Password text field
+2024-02-14 11:50:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-14 11:50:58 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
